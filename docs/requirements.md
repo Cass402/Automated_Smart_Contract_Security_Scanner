@@ -57,7 +57,7 @@ The MVP will focus on core functionalities and be extendable for future enhancem
 ### 3.4 Blockchain Integration
 
 - **On-Chain Verification:**
-  - Fetch deployed bytecode using blockchain APIs (via Web3.js or Web3.py).
+  - Fetch deployed bytecode using blockchain APIs (Web3.py).
   - Compare on-chain bytecode with the analyzed Solidity source to ensure integrity.
 - **Manual Triggers:** Enable users to manually initiate verification for specific contracts.
 
